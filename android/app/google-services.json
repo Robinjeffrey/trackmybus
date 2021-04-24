@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319624065442",
+    "project_id": "track-my-bus-d596d",
+    "storage_bucket": "track-my-bus-d596d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319624065442:android:9efe7b331c24589c5d42fb",
+        "android_client_info": {
+          "package_name": "com.example.trackmybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319624065442-mlo82ekoforctnfqub217vfkgs0r7aqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15h4IG4ctBsL7YD3GSwlbsskCucwI3lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319624065442-mlo82ekoforctnfqub217vfkgs0r7aqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
